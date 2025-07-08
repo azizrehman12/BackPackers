@@ -233,7 +233,7 @@ const Gallery: React.FC = () => {
               Schedule a Tour
             </a>
             <a
-              href="https://wa.me/923001234567"
+              href="https://wa.me/92321876038"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105"
             >
               WhatsApp Us
