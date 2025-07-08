@@ -48,7 +48,7 @@ const About: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <img
-                src="/src/Pictures/pictures1223.jpg"
+                src="/Pictures/pictures1223.jpg"
                 alt="Owner"
                 className="w-full max-w-md mx-auto rounded-lg shadow-md"
               />

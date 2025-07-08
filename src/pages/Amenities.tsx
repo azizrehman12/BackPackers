@@ -165,7 +165,7 @@ const Amenities: React.FC = () => {
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="/src/Pictures/study3.jpg"
+                src="Pictures/study3.jpg"
                 alt="Modern Exterior"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
@@ -175,7 +175,7 @@ const Amenities: React.FC = () => {
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="/src/Pictures/common.jpg"
+                src="/public/Pictures/common.jpg"
                 alt="Common Area"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
@@ -185,7 +185,7 @@ const Amenities: React.FC = () => {
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="/src/Pictures/washrooms.jpg"
+                src="/public/Pictures/washrooms.jpg"
                 alt="Laundry Area"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />

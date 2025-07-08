@@ -6,74 +6,74 @@ const Gallery: React.FC = () => {
 
   const images = [
     {
-      url: '/src/Pictures/room1.jpg',
+      url: '/Pictures/room1.jpg',
       category: 'Rooms',
       title: 'Single Room'
     },
     {
-      url: '/src/Pictures/double.jpg',
+      url: '/Pictures/double.jpg',
       category: 'Rooms',
       title: 'Double Room'
     },
     {
-      url: '/src/Pictures/KITCHEN.jpg',
+      url: '/Pictures/KITCHEN.jpg',
       category: 'Kitchen',
       title: 'Modern Kitchen'
     },
     {
-      url: '/src/Pictures/STUDY.jpg',
+      url: '/Pictures/STUDY.jpg',
       category: 'Study Area',
       title: 'Study Lounge'
     },
     {
-      url: '/src/Pictures/tv.jpg',
+      url: '/Pictures/tv.jpg',
       category: 'Common Area',
       title: 'TV Lounge'
     },
     {
-      url: '/src/Pictures/lauch.jpg',
+      url: '/Pictures/lauch.jpg',
       category: 'Facilities',
       title: ' Area'
     },
     {
-      url: '/src/Pictures/rooms.jpg',
+      url: '/Pictures/rooms.jpg',
       category: 'Rooms',
       title: 'Premium Room'
     },
     {
-      url: '/src/Pictures/pr.jpg',
+      url: '/Pictures/pr.jpg',
       category: 'Rooms',
       title: 'Executive Room'
     },
     {
-      url: '/src/Pictures/db.jpg',
+      url: '/Pictures/db.jpg',
       category: 'Rooms',
       title: 'Shared Room'
     },
     {
-      url: '/src/Pictures/washrooms.jpg',
+      url: '/Pictures/washrooms.jpg',
       category: 'Exterior',
       title: 'Hostel Building'
     },
     {
-      url: '/src/Pictures/interence.jpg',
+      url: '/Pictures/interence.jpg',
       category: 'Exterior',
       title: 'Entrance'
     },
     
     {
-      url: '/src/Pictures/interence.jpg',
+      url: '/Pictures/interence.jpg',
       category: 'Common Area',
       title: 'Reception Area'
     },
     {
-      url: '/src/Pictures/d.jpg',
+      url: '/Pictures/d.jpg',
       category: 'Rooms',
       title: 'Deluxe Room'
     },
     
     {
-      url: '/src/Pictures/KITCHEN.jpg',
+      url: '/Pictures/KITCHEN.jpg',
       category: 'Kitchen',
       title: 'Dining Area'
     }
